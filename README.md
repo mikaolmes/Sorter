@@ -1,4 +1,4 @@
-# Sorter 
+# 🔀 Sorter 
 
 This was my first Powershell project.
 
