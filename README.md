@@ -8,4 +8,4 @@ I also have a second program that does everything backwards (Rueckgangig.ps1).
 
 ---
 
-The code and other files can be found in the **master** branch. 
+The code and other files can be found in the **master** branch.
