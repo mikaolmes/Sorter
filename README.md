@@ -1,11 +1,10 @@
-# 🔀 Sorter 
+# 🔀 Sorter
 
-This is my first Powershell project.
+**Sorter** is my first project using **PowerShell**.
 
-
-It is a **Powershell** program that creates folders for each type of data and sorts other files into those folders (Sortierer.ps1).
-I also have a second program that does everything backwards (Rueckgangig.ps1).
+It includes a PowerShell script (`Sortierer.ps1`) that automatically creates folders based on file types and sorts files into them.  
+There is also a second script (`Rueckgaengig.ps1`) that reverses the sorting process.
 
 ---
 
-The code and other files can be found in the **master** branch.
+📁 **All code and files** can be found in the **master** branch.
