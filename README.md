@@ -7,4 +7,4 @@ There is also a second script (`Rueckgaengig.ps1`) that reverses the sorting pro
 
 ---
 
-📁 **All code and files** can be found in the `**master**` branch.
+📁 **All code and files** can be found in the `master` branch.
